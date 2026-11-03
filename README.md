@@ -194,15 +194,25 @@ Proyecto frontend desarrollado con programación orientada a objetos y clases ES
 
 ---
 
+
 ## 📈 Mi actividad en GitHub
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=IsraelLiraDev&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="Estadísticas de GitHub"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsraelLiraDev&layout=compact&hide_border=true&theme=transparent" alt="Lenguajes más utilizados"/>
+<a href="https://github.com/IsraelLiraDev?tab=repositories">
+  <img src="https://img.shields.io/badge/Explorar-mis_repositorios-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explorar mis repositorios"/>
+</a>
+<a href="https://github.com/IsraelLiraDev?tab=stars">
+  <img src="https://img.shields.io/badge/Ver-mis_stars-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver mis stars"/>
+</a>
+<a href="https://github.com/IsraelLiraDev">
+  <img src="https://img.shields.io/badge/Visitar-mi_perfil-0A66C2?style=for-the-badge&logo=github&logoColor=white" alt="Visitar mi perfil de GitHub"/>
+</a>
 
 </div>
+
+Explora mis repositorios para ver el código, las tecnologías y la evolución de mis proyectos.
+
 
 ---
 
