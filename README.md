@@ -224,21 +224,34 @@ Formación práctica en desarrollo web frontend y backend, JavaScript, React, No
 
 ---
 
+
 ## 🤝 Contacto
 
-¿Buscas un desarrollador para tu equipo o tienes una idea que quieras convertir en producto?
+¿Buscas un desarrollador para tu equipo o tienes una idea que quieras convertir en producto? ¡Hablemos!
 
 <p align="left">
   <a href="https://github.com/IsraelLiraDev">
     <img src="https://img.shields.io/badge/GitHub-IsraelLiraDev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+  <a href="https://www.linkedin.com/in/israelliradev/">
+    <img src="https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
   <a href="https://israellira.sharkbooking.es/">
-    <img src="https://img.shields.io/badge/Portfolio-Web-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-Web-0D1117?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://progolscores.com">
     <img src="https://img.shields.io/badge/ProGol_Scores-Web-0B65D8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="ProGol Scores"/>
   </a>
 </p>
+
+---
+
+<div align="center">
+
+**¡Gracias por visitar mi perfil! 🚀**
+
+</div>
+
 
 ---
 
