@@ -133,8 +133,8 @@ Plataforma de gestión de citas y reservas para negocios y profesionales, con ar
   <a href="https://progolscores.com">
     <img src="https://img.shields.io/badge/Visitar_ProGol-0B65D8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visitar ProGol"/>
   </a>
-  <a href="https://github.com/IsraelLiraDev/progol-ios">
-    <img src="https://img.shields.io/badge/Repositorio_iOS-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositorio iOS"/>
+  <a href="https://github.com/IsraelLiraDev/progol">
+    <img src="https://img.shields.io/badge/Repositorio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositorio"/>
   </a>
 </p>
 
