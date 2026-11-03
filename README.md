@@ -1,45 +1,239 @@
+
+<div align="center">
+
 # ¡Hola! Soy Israel Lira 👋
 
-### Desarrollador Full Stack | JavaScript · Node.js · React
+### Desarrollador Full Stack | JavaScript · React · Node.js
 
-Soy desarrollador web y me apasiona crear soluciones tecnológicas que resuelvan problemas reales. Combino mi experiencia en desarrollo web, soporte técnico e infraestructura con el desarrollo de aplicaciones y plataformas propias.
+Desarrollo aplicaciones web, APIs REST y plataformas SaaS, desde la interfaz hasta el backend y el despliegue en producción.
 
-He participado en más de **1.900 proyectos web** y trabajado con más de **2.000 sitios web y servidores**. En octubre de 2026 completé el programa de Desarrollo Web Full Stack de TripleTen.
+<p>
+  <a href="https://israellira.sharkbooking.es/">
+    <img src="https://img.shields.io/badge/Portfolio-Visitar-0D1117?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://github.com/IsraelLiraDev">
+    <img src="https://img.shields.io/badge/GitHub-Repositorios-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://progolscores.com">
+    <img src="https://img.shields.io/badge/ProGol_Scores-Explorar-0D1117?style=for-the-badge&logo=googlechrome&logoColor=white" alt="ProGol Scores"/>
+  </a>
+</p>
 
-### 🛠️ Tecnologías y herramientas
-
-- **Frontend:** HTML5, CSS3, JavaScript, React
-- **Backend:** Node.js, Express.js, APIs REST
-- **Bases de datos:** SQLite, PostgreSQL (migración en desarrollo)
-- **Herramientas e infraestructura:** Git, GitHub, Linux, Nginx, PM2, Docker (formación, si corresponde)
-
-### 🚀 Proyectos destacados
-
-**SharkBooking — Plataforma SaaS de reservas**
-
-Plataforma multitenant para negocios de belleza y bienestar, con paneles para administradores, clientes y empleados, actualizaciones en tiempo real y aplicación web progresiva.
-
-- Tecnologías: Node.js, Express, HTML, CSS, JavaScript, Socket.IO y Capacitor.
-- Demo: https://sharkbooking.es/probar
-
-**ProGol Scores — Estadísticas y análisis de fútbol**
-
-Aplicación que integra datos deportivos y un modelo estadístico propio para calcular probabilidades y generar pronósticos de fútbol.
-
-- Tecnologías: Node.js, Express, SQLite, HTML, CSS, JavaScript y Capacitor.
-- Web: https://progolscores.com
-- GitHub iOS: https://github.com/IsraelLiraDev/progol-ios
-
-### 🎯 Objetivo profesional
-
-Busco oportunidades como desarrollador Full Stack o Web Developer en las que pueda aportar experiencia práctica, capacidad para resolver problemas y ganas de seguir aprendiendo y creciendo profesionalmente.
-
-### 📫 Contacto
-
-- **LinkedIn:** https://www.linkedin.com/in/israelliradev/
-- **Portfolio:** https://israellira.sharkbooking.es/
-- **GitHub:** https://github.com/IsraelLiraDev
+</div>
 
 ---
 
-⭐ Gracias por visitar mi perfil.
+## 👨‍💻 Sobre mí
+
+Soy desarrollador Full Stack y he completado mi formación en **TripleTen Web Development**. Me gusta convertir ideas en productos funcionales, combinando desarrollo frontend, backend, bases de datos, APIs e infraestructura.
+
+He desarrollado proyectos propios con funcionalidades reales, como gestión de citas, arquitecturas multi-tenant, aplicaciones móviles, notificaciones push, autenticación y sistemas de pago.
+
+- 🚀 Desarrollo aplicaciones web y productos SaaS.
+- 🧩 Trabajo con JavaScript, React, Node.js y Express.
+- 🗄️ Desarrollo e integro APIs y bases de datos.
+- 📱 Exploro el desarrollo móvil con Capacitor y Swift.
+- 🌐 Tengo experiencia práctica desplegando aplicaciones en servidores VPS.
+- 📚 Sigo ampliando mis conocimientos y mejorando mis proyectos.
+
+**Objetivo:** seguir creciendo como desarrollador Full Stack y participar en proyectos tecnológicos donde pueda aportar soluciones, aprender y evolucionar profesionalmente.
+
+---
+
+## 🛠️ Stack tecnológico
+
+### 🎨 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite" alt="HTML, CSS, JavaScript, React y Vite"/>
+</p>
+
+**Tecnologías:** HTML5 · CSS3 · JavaScript ES6+ · React · Vite · Responsive Design · Metodología BEM.
+
+### ⚙️ Backend y bases de datos
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,postgres,mongodb,sqlite" alt="Node.js, Express, MySQL, PostgreSQL, MongoDB y SQLite"/>
+</p>
+
+**Tecnologías:** Node.js · Express · APIs REST · MySQL · PostgreSQL · MongoDB Atlas · SQLite · Prisma ORM · JSON.
+
+### 📱 Aplicaciones móviles
+
+<p>
+  <img src="https://skillicons.dev/icons?i=swift,apple" alt="Swift y Apple"/>
+  <img src="https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white" alt="Capacitor"/>
+  <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white" alt="PWA"/>
+</p>
+
+**Tecnologías:** Capacitor · Swift · PWA · Service Workers · Notificaciones push · APNs · App Store Connect · Google Play Console.
+
+### 🔌 APIs, tiempo real y seguridad
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postman" alt="Postman"/>
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="Socket.IO"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
+  <img src="https://img.shields.io/badge/Web_Push-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="Web Push"/>
+</p>
+
+**Tecnologías:** APIs REST · Autenticación JWT · Socket.IO · Web Push · VAPID · Integración de servicios externos.
+
+### ☁️ Infraestructura y despliegue
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,bash,nginx,gcp,git,github" alt="Linux, Bash, Nginx, Google Cloud, Git y GitHub"/>
+  <img src="https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2&logoColor=white" alt="PM2"/>
+</p>
+
+**Tecnologías:** Linux · VPS · Nginx · PM2 · Git · GitHub · Bash · HTTPS · Let's Encrypt · Google Cloud · DNS · Despliegue y mantenimiento de aplicaciones.
+
+### 🧰 Herramientas y servicios
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,figma,python,npm" alt="VS Code, Figma, Python y npm"/>
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" alt="Stripe"/>
+  <img src="https://img.shields.io/badge/Codemagic-F45E3F?style=flat-square&logo=codemagic&logoColor=white" alt="Codemagic"/>
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress"/>
+</p>
+
+**Herramientas:** VS Code · npm · Figma · Python para scripts · Stripe · Codemagic · WordPress · macOS.
+
+---
+
+## 🚀 Proyectos destacados
+
+### 1. SharkBooking — Plataforma SaaS de reservas
+
+<p>
+  <a href="https://sharkbooking.es/probar">
+    <img src="https://img.shields.io/badge/Probar_demo-00A884?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Probar demo"/>
+  </a>
+  <a href="https://github.com/IsraelLiraDev/sharkbooking">
+    <img src="https://img.shields.io/badge/Ver_código-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver código"/>
+  </a>
+</p>
+
+Plataforma de gestión de citas y reservas para negocios y profesionales, con arquitectura multi-tenant.
+
+- 🏢 Separación de establecimientos mediante subdominios.
+- 👥 Gestión de clientes, empleados, horarios y citas.
+- ⚡ Actualizaciones en tiempo real con Socket.IO.
+- 🔔 Notificaciones push y aplicación web instalable (PWA).
+- 🌍 Interfaz multilingüe y personalización por establecimiento.
+- 📱 Integración móvil mediante Capacitor.
+- 🔐 Gestión de sesiones y recuperación de contraseñas.
+- ☁️ Despliegue en VPS con Node.js, Express, Nginx y PM2.
+
+**Stack:** JavaScript · Node.js · Express · PostgreSQL/Prisma en desarrollo · Socket.IO · PWA · Capacitor · Nginx · PM2.
+
+### 2. ProGol Scores — Estadísticas y análisis de fútbol
+
+<p>
+  <a href="https://progolscores.com">
+    <img src="https://img.shields.io/badge/Visitar_ProGol-0B65D8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visitar ProGol"/>
+  </a>
+  <a href="https://github.com/IsraelLiraDev/progol-ios">
+    <img src="https://img.shields.io/badge/Repositorio_iOS-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositorio iOS"/>
+  </a>
+</p>
+
+Aplicación centrada en estadísticas, probabilidades y pronósticos de fútbol generados mediante algoritmos estadísticos.
+
+- 📊 Análisis de datos y probabilidades por mercado.
+- ⚽ Integración con proveedores externos de datos deportivos.
+- 🔔 Notificaciones de goles, inicio y final de partidos.
+- 📱 Aplicación iOS con Capacitor e integración de funciones nativas en Swift.
+- 🟢 Actividades en vivo en iPhone.
+- 💳 Integración de pagos con Stripe.
+- 🌐 Interfaz en portugués, español e inglés.
+- 👥 Gestión de cuentas, planes y funcionalidades premium.
+
+**Stack:** JavaScript · Node.js · Express · SQLite · Capacitor · Swift · APNs · Stripe · PWA.
+
+### 3. Around The U.S. — Aplicación React
+
+<p>
+  <a href="https://github.com/IsraelLiraDev/web_project_around_react">
+    <img src="https://img.shields.io/badge/Ver_repositorio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositorio"/>
+  </a>
+</p>
+
+Aplicación desarrollada durante mi formación en TripleTen para gestionar un perfil de usuario y una galería de lugares.
+
+- ⚛️ Componentes reutilizables con React.
+- 🖼️ Galería de tarjetas con imágenes.
+- ❤️ Funciones para marcar favoritos y eliminar tarjetas.
+- ✏️ Formularios y ventanas emergentes para editar el perfil.
+- 📱 Diseño adaptable a diferentes tamaños de pantalla.
+
+**Stack:** React · JavaScript ES6+ · HTML · CSS · Vite.
+
+### 4. News Explorer — Aplicación Full Stack
+
+Proyecto final de formación en TripleTen para explorar y guardar artículos de noticias.
+
+- 🔌 Integración con una API de noticias.
+- ⚙️ Backend desarrollado con Node.js y Express.
+- 🗄️ Persistencia de datos con MongoDB Atlas.
+- 🔐 Autenticación y gestión de usuarios.
+- 🌐 Separación entre frontend y backend.
+
+**Stack:** JavaScript · Node.js · Express · MongoDB Atlas · APIs REST.
+
+### 5. Mesto — Aplicación JavaScript
+
+Proyecto frontend desarrollado con programación orientada a objetos y clases ES6.
+
+- 🧱 Clases reutilizables para tarjetas, formularios y ventanas emergentes.
+- ✅ Validación de formularios.
+- 🖼️ Visualización de imágenes.
+- 👤 Edición de perfil e interacción con la interfaz.
+
+**Stack:** JavaScript ES6+ · HTML · CSS · BEM · OOP.
+
+---
+
+## 📈 Mi actividad en GitHub
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=IsraelLiraDev&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="Estadísticas de GitHub"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsraelLiraDev&layout=compact&hide_border=true&theme=transparent" alt="Lenguajes más utilizados"/>
+
+</div>
+
+---
+
+## 🎓 Formación
+
+**TripleTen — Full Stack Web Development**
+
+Formación práctica en desarrollo web frontend y backend, JavaScript, React, Node.js, Express, APIs, bases de datos, control de versiones y despliegue de aplicaciones.
+
+---
+
+## 🤝 Contacto
+
+¿Buscas un desarrollador para tu equipo o tienes una idea que quieras convertir en producto?
+
+<p align="left">
+  <a href="https://github.com/IsraelLiraDev">
+    <img src="https://img.shields.io/badge/GitHub-IsraelLiraDev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://israellira.sharkbooking.es/">
+    <img src="https://img.shields.io/badge/Portfolio-Web-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://progolscores.com">
+    <img src="https://img.shields.io/badge/ProGol_Scores-Web-0B65D8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="ProGol Scores"/>
+  </a>
+</p>
+
+---
+
+<div align="center">
+
+**Gracias por visitar mi perfil. ¡Seguimos construyendo! 🚀**
+
+</div>
