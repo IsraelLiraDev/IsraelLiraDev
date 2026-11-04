@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # ¡Hola! Soy Israel Lira 👋
@@ -133,8 +132,8 @@ Plataforma de gestión de citas y reservas para negocios y profesionales, con ar
   <a href="https://progolscores.com">
     <img src="https://img.shields.io/badge/Visitar_ProGol-0B65D8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visitar ProGol"/>
   </a>
-  <a href="https://github.com/IsraelLiraDev/progol">
-    <img src="https://img.shields.io/badge/Repositorio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositorio"/>
+  <a href="https://github.com/IsraelLiraDev/progol-ios">
+    <img src="https://img.shields.io/badge/Repositorio_iOS-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositorio iOS"/>
   </a>
 </p>
 
@@ -151,35 +150,52 @@ Aplicación centrada en estadísticas, probabilidades y pronósticos de fútbol 
 
 **Stack:** JavaScript · Node.js · Express · SQLite · Capacitor · Swift · APNs · Stripe · PWA.
 
-### 3. Around The U.S. — Aplicación React
+### 3. Around The U.S. — Aplicación Full Stack (TripleTen, Proyecto 18)
 
 <p>
-  <a href="https://github.com/IsraelLiraDev/web_project_around_react">
-    <img src="https://img.shields.io/badge/Ver_repositorio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositorio"/>
+  <a href="https://github.com/IsraelLiraDev/web_project_api_full">
+    <img src="https://img.shields.io/badge/Ver_repositorio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositorio full stack"/>
+  </a>
+  <a href="https://israelaround.mooo.com">
+    <img src="https://img.shields.io/badge/Ver_aplicación-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Ver aplicación"/>
+  </a>
+  <a href="https://api.israelaround.mooo.com">
+    <img src="https://img.shields.io/badge/API-2E7D32?style=for-the-badge&logo=fastapi&logoColor=white" alt="API"/>
   </a>
 </p>
 
-Aplicación desarrollada durante mi formación en TripleTen para gestionar un perfil de usuario y una galería de lugares.
+Evolución full-stack del proyecto Around The U.S., conectando la aplicación React con un backend propio y autenticación de usuarios. Desplegado y funcionando desde octubre de 2026.
 
-- ⚛️ Componentes reutilizables con React.
-- 🖼️ Galería de tarjetas con imágenes.
-- ❤️ Funciones para marcar favoritos y eliminar tarjetas.
-- ✏️ Formularios y ventanas emergentes para editar el perfil.
-- 📱 Diseño adaptable a diferentes tamaños de pantalla.
+- ⚛️ Frontend con React, Vite y JavaScript ES6+.
+- ⚙️ API REST desarrollada con Node.js y Express.
+- 🔐 Registro e inicio de sesión con autenticación JWT.
+- 🗂️ Código organizado en las carpetas `frontend/` y `backend/`.
+- ☁️ Despliegue en una máquina virtual de Google Cloud.
+- 🔒 Dominio con HTTPS.
 
-**Stack:** React · JavaScript ES6+ · HTML · CSS · Vite.
+**Stack:** React · Vite · JavaScript · Node.js · Express · JWT · HTML · CSS · Google Cloud.
 
-### 4. News Explorer — Aplicación Full Stack
+### 4. News Explorer — Aplicación Full Stack (TripleTen, Proyecto 19)
 
-Proyecto final de formación en TripleTen para explorar y guardar artículos de noticias.
+<p>
+  <a href="https://github.com/IsraelLiraDev/news-explorer-frontend">
+    <img src="https://img.shields.io/badge/Frontend-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositorio frontend"/>
+  </a>
+  <a href="https://github.com/IsraelLiraDev/news-explorer-api">
+    <img src="https://img.shields.io/badge/Backend_API-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositorio backend"/>
+  </a>
+</p>
 
-- 🔌 Integración con una API de noticias.
-- ⚙️ Backend desarrollado con Node.js y Express.
+Proyecto final de TripleTen desarrollado en tres fases: frontend con React, backend con Express y autorización de usuarios en React. Las tres fases fueron aprobadas por el revisor.
+
+- 📰 Búsqueda e integración con una API de noticias.
+- ⚛️ Interfaz desarrollada con React y Vite.
+- ⚙️ Backend con Node.js y Express.
 - 🗄️ Persistencia de datos con MongoDB Atlas.
-- 🔐 Autenticación y gestión de usuarios.
-- 🌐 Separación entre frontend y backend.
+- 🔐 Registro, inicio de sesión y rutas protegidas mediante JWT.
+- 🌐 Frontend y API organizados en repositorios separados.
 
-**Stack:** JavaScript · Node.js · Express · MongoDB Atlas · APIs REST.
+**Stack:** React · Vite · JavaScript · Node.js · Express · MongoDB Atlas · APIs REST · JWT.
 
 ### 5. Mesto — Aplicación JavaScript
 
@@ -193,7 +209,6 @@ Proyecto frontend desarrollado con programación orientada a objetos y clases ES
 **Stack:** JavaScript ES6+ · HTML · CSS · BEM · OOP.
 
 ---
-
 
 ## 📈 Mi actividad en GitHub
 
@@ -213,45 +228,36 @@ Proyecto frontend desarrollado con programación orientada a objetos y clases ES
 
 Explora mis repositorios para ver el código, las tecnologías y la evolución de mis proyectos.
 
-
 ---
 
 ## 🎓 Formación
 
-**TripleTen — Full Stack Web Development**
+**TripleTen — Full Stack Web Development** · Enero–octubre de 2026 · Formación completada
 
-Formación práctica en desarrollo web frontend y backend, JavaScript, React, Node.js, Express, APIs, bases de datos, control de versiones y despliegue de aplicaciones.
+Programa práctico de desarrollo web frontend y backend con JavaScript, React, Node.js, Express, APIs REST, bases de datos, autenticación, control de versiones y despliegue de aplicaciones.
+
+**Proyectos finales destacados:**
+
+- **Proyecto 18 — Around The U.S. Full Stack:** [repositorio](https://github.com/IsraelLiraDev/web_project_api_full) · [aplicación desplegada](https://israelaround.mooo.com) · [API](https://api.israelaround.mooo.com).
+- **Proyecto 19 — News Explorer:** [frontend](https://github.com/IsraelLiraDev/news-explorer-frontend) · [backend/API](https://github.com/IsraelLiraDev/news-explorer-api). Las tres fases fueron aprobadas por el revisor.
 
 ---
 
-
 ## 🤝 Contacto
 
-¿Buscas un desarrollador para tu equipo o tienes una idea que quieras convertir en producto? ¡Hablemos!
+¿Buscas un desarrollador para tu equipo o tienes una idea que quieras convertir en producto?
 
 <p align="left">
   <a href="https://github.com/IsraelLiraDev">
     <img src="https://img.shields.io/badge/GitHub-IsraelLiraDev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://www.linkedin.com/in/israelliradev/">
-    <img src="https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
   <a href="https://israellira.sharkbooking.es/">
-    <img src="https://img.shields.io/badge/Portfolio-Web-0D1117?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-Web-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://progolscores.com">
     <img src="https://img.shields.io/badge/ProGol_Scores-Web-0B65D8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="ProGol Scores"/>
   </a>
 </p>
-
----
-
-<div align="center">
-
-**¡Gracias por visitar mi perfil! 🚀**
-
-</div>
-
 
 ---
 
